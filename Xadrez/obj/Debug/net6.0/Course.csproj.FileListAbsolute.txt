@@ -1,0 +1,15 @@
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\bin\Debug\net6.0\Course.exe
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\bin\Debug\net6.0\Course.deps.json
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\bin\Debug\net6.0\Course.dll
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\bin\Debug\net6.0\Course.pdb
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\obj\Debug\net6.0\Course.dll
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\obj\Debug\net6.0\refint\Course.dll
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\obj\Debug\net6.0\Course.pdb
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\obj\Debug\net6.0\Course.genruntimeconfig.cache
+C:\Users\Rafaellen Benjamin\Desktop\BEMOBI\curso c#\projetos\Xadrez\Xadrez\obj\Debug\net6.0\ref\Course.dll
